@@ -1,0 +1,2776 @@
+{
+  "spots": [
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6753,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/5-e-22nd-st/",
+      "address": "5 E. 22nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10010",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7404391478453",
+      "lng": "-73.9889448881149",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the left (north) side of E 22nd St, between Broadway and Park Ave S. Look for a black rectangular sign on two poles that reads \"Icon Park\" in white. There will also be a black horizontal sign with an orange arrow that reads \"24 Hr Parking\" over the garage entrance.",
+      "description":
+        "Secure indoor garage in Flatiron District. This location is just one block from the Gramercy Theatre and Madison Square Park.",
+      "recommendations": 99
+    },
+
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6744,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/155-e-38th-st/",
+      "address": "155 E. 38th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7484791466417",
+      "lng": "-73.9768012943622",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of E 38th St, between Lexington Ave and  3rd Ave. Look for a black vertical sign that reads \"Park icon\" with an orange arrow underneath it. Above the entrance will be a black horizontal sign that reads \"icon Parking\".",
+      "description":
+        "Secure and affordable indoor garage in Murray Hill. Just a few minutes to the Empire State Building, Chrysler Building, and Grand Central.",
+      "recommendations": 128
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6482,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/207-w-52nd-st/",
+      "address": "207 W. 52nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7625990620888",
+      "lng": "-73.9827597141266",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the left (north) side of W 52nd St, between Broadway and 7th Ave. Look for a black signs reading \"Park\" in white with an orange Icon Parking logo and an arrow underneath. <br />\r\n<br />\r\nThe entrance is beside Manhattan Club.",
+      "description":
+        "Accessible and secure garage in Midtown Manhattan. Just a few blocks from August Wilson Theatre, Gershwin Theatre, Neil Simon Theatre and a short walk to Times Square and Rockefeller Center.",
+      "recommendations": 496
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6548,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/40-e-9th-st/",
+      "address": "40 E. 9th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7317487230106",
+      "lng": "-73.9934831857681",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the left (south) side of E 9th St, between Broadway and University Pl. Look for a down ramp with a black sign that reads \"Park icon 24 hrs\" in white and orange.",
+      "description":
+        "Secured parking garage conveniently located in Greenwich Village. Just a few minutes away from the Astor Place Theatre, the Public Theater, and Webster Hall.",
+      "recommendations": 201
+    },
+    {
+      "location_name": "Enterprise Parking Systems",
+      "location_id": 4839,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/290-w-60th-st/",
+      "address": "290 W. 60th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7720228127253",
+      "lng": "-73.9895976707339",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of W 60th St, near the southeast corner of the West End Ave and W 60th St intersection.  Look for a vertical blue sign that reads \"Park 24 Hrs\" in white. This garage comes immediately after the Manhattan Movement and Arts Center while next to this garage is the tall, glass Urbani Truffles USA building.<br />\r\n<br />\r\n<br />\r\nPlease note that West 60th St is a one-way street going west, so you cannot turn right from 11th Ave.",
+      "description":
+        "Secure and affordable indoor garage in Lincoln Square District. Just a short walk to the Lincoln Center for the Performing Arts, David Geffen Hall, Metropolitan Opera and the Bowery Presents (Terminal 5).<br />\r\n<br />\r\nIf you are driving an oversized vehicle, you may be subject to an estimated additional fee of $10/day on-site",
+      "recommendations": 672
+    },
+
+    {
+      "location_name": "Quik Park",
+      "location_id": 6071,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/235-w-22nd-st/",
+      "address": "235 W. 22nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7438918335868",
+      "lng": "-73.9971374021843",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of W 22nd St between 8th Ave and 7th Ave. Look for a vertical red sign that reads \"Park, Open 24hrs.\" in white.",
+      "description":
+        "Secure and affordable indoor garage in Chelsea. Just a few minutes to the Madison Square Garden, Chelsea Studios, and Flatiron Building.",
+      "recommendations": 85
+    },
+
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6491,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/415-w-64th-st/",
+      "address": "415 W. 64th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10069",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.775526954495",
+      "lng": "-73.9898764109239",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is on the left (north) side of W 64th St between Riverside Blvd and West End Ave. Look for a vertical black sign reading \"Park\" with orange arrow underneath. Entrance is underneath sign reading \"icon 24 hr Parking\".",
+      "description":
+        "Perfectly located for drivers heading to events at Lincoln Center. Drivers love the secure facilities and professional service.",
+      "recommendations": 23
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6531,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/215-e-95th-st/",
+      "address": "215 E 95th St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7841169340939",
+      "lng": "-73.9480773091232",
+      "eticket": 1,
+      "directions":
+        "This parking garage is located on the right (north) side of E 95th St between 3rd Ave and 2nd Ave. Look for the black awning that says \"24 hr. Parking\" in white with an arrow pointing towards the facility entrance.",
+      "description":
+        "Well-maintained indoor parking garage near the Guggenheim Museum. Drivers love the professional service and easy access.",
+      "recommendations": 25
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6534,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/318-322-e-23rd-st/",
+      "address": "318-322 E. 23rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10010",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7372395",
+      "lng": "-73.9797198",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the south side of E 23rd St, between 2nd Ave and 1st Ave. Look for a vertical black sign reading \"Park\" with orange arrow underneath. Entrance is underneath horizontal sign reading \"icon 24 hr Parking\".",
+      "description":
+        "A great option for shows at Gramercy Theatre. Drivers love the convenient location and efficient service.",
+      "recommendations": 3
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6540,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/309-e-54th-st/",
+      "address": "309 E. 54th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10022",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.757304599151",
+      "lng": "-73.9662104845047",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of E 54th St, close to the northeast intersection of 2nd Ave and E 54th St. Look for a black vertical sign that reads \"Park\" in white and another black sign above the entrance that reads \"24 Hr. Parking\" in white with orange Icon logo.",
+      "description":
+        "Secure and affordable indoor garage in Midtown East. Just a few minutes to the United Nations, Grand Central, and Rockefeller Center. Also perfect for restaurants, bars, hotels, and shopping nearby.",
+      "recommendations": 17
+    },
+
+    {
+      "location_name": "Impark",
+      "location_id": 5339,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/188-e-78th-st/",
+      "address": "188 E. 78th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10075",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7737574985116",
+      "lng": "-73.9583676005714",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the right (south) side of E 78th St, between Lexington Ave and 3rd Ave.  Look for a black vertical sign that reads \"Park\" in white with Impark logo next to a red awning.",
+      "description":
+        "Quick and hassle-free valet parking garage for the Empire Condominiums in the Upper East Side. Just a short walk to the Metropolitan Museum of Art, Central Park, Guggenheim Museum, and Rumsey Playfield.<br />\r\n<br />\r\nParking outside of your pass time frame will result in additional fees onsite.",
+      "recommendations": 25
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 8251,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/240-e-broadway/",
+      "address": "240 E. Broadway",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10002",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7143783294107",
+      "lng": "-73.9861822125022",
+      "eticket": 1,
+      "directions":
+        "The entrance to this underground parking garage is located on the north side of East Broadway, between Clinton St and Samuel Dickstein Plaza. Look for a black sign that reads \"Park\" in white with an orange arrow.",
+      "description":
+        "Convenient underground parking garage in Lower East Side.  Just a short walk to Pier 36 and the Bowery Ballroom.",
+      "recommendations": 160
+    },
+    {
+      "location_name": "Quik Park - 485 Garage",
+      "location_id": 6120,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/127-e-46th-st/",
+      "address": "127 E. 46th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10017",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7537920242384",
+      "lng": "-73.9731676317751",
+      "eticket": 1,
+      "directions":
+        "The entrance for this parking garage is located on the left (north) side of E 46th St, between Lexington Ave and 3rd Ave. Look for a red vertical sign that reads \"Park\" in white.",
+      "description":
+        "Convenient and affordable indoor parking in Manhattan&apos;s Turtle Bay neighborhood. Just a few blocks to the Grand Central Terminal, Chrysler Building, and United Nations Headquarters. Drivers like the friendly attendants and fast entry/exit.",
+      "recommendations": 509
+    },
+    {
+      "location_name": "MTP Parking",
+      "location_id": 989,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/601-w-57th-st/",
+      "address": "601 W. 57th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7707837237208",
+      "lng": "-73.9924086257816",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the north side of W 57th St, between 12th Ave and 11th Ave.  Enter the driveway to the right of a pyramid-shaped glass building to enter the garage on your right.  Look for a black sign above the entrance that reads \"Parking\" in white and a white sign underneath that reads \" Welcome to MTP\" in black.",
+      "description":
+        "Affordable indoor parking at a brand-new garage in Lincoln Square. Just a short walk to Terminal 5, the Lincoln Center for the Performing Arts and The Juilliard School.",
+      "recommendations": 1419
+    },
+    {
+      "location_name": "Chelnik Parking",
+      "location_id": 6199,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/902-2nd-ave/",
+      "address": "902 2nd Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10017",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7539868036261",
+      "lng": "-73.9689608220901",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is situated on the left (east) side of 2nd Ave between E 49th St and E 48th St. The entrance is located adjacent to the Morton Williams grocery store on the ground floor of a multi-story brick building.  Look for a vertical black sign that reads \"Park\" in white.<br />\r\n<br />\r\nDue to demand and traffic patterns, please allow extra time for vehicle drop-off and pick-up during peak hours. Parking outside of your reserved time frame will result in additional fees in accordance with posted rates",
+      "description":
+        "This parking garage is located in Midtown East, just one block from UN Plaza. Drivers like the speedy and friendly service at this location. Due to demand and traffic patterns, please allow extra time for vehicle drop-off and pick-up during peak hours. <br />\r\n<br />\r\nAn additional fee will apply onsite for the following: $10/day for oversize vehicles (SUV/Minivan); $20/day for supersize vehicles (Truck/Van/Escalade) and exotic cars.",
+      "recommendations": 103
+    },
+    {
+      "location_name": "Impark",
+      "location_id": 6264,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/84-w-24th-st/",
+      "address": "84 W. 24th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10010",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7434659",
+      "lng": "-73.9920924",
+      "eticket": 1,
+      "directions":
+        "The entrance to this fenced-in surface lot is located on the right (south) side of W 24th St, near  the intersection of W 24th St and  6th Ave. Look for a white vertical sign that reads \"Park\" in black.",
+      "description":
+        "Easy, open-air parking lot in the Flatiron District. Just a short walk to The Flatiron Building, the Gramercy Theatre, and Union Square.<br />\r\n<br />\r\nParking outside of your pass time frame will result in additional fees onsite.",
+      "recommendations": 5
+    },
+    {
+      "location_name": "MTP Parking",
+      "location_id": 5006,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/69-st-clair-pl/",
+      "address": "69 St. Clair Pl.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10027",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.8182017945681",
+      "lng": "-73.9615957439355",
+      "eticket": 1,
+      "directions":
+        "Although the building address of this location is 69 St Clair Pl, the entrance to this open-air lot is located on the left (east) side of Marginal St, at the corner of St Clair Pl and 12th Ave. Look for vertical white signs that read \"Park\" underneath the Henry Hudson Highway.<br />\r\n<br />\r\nA $5.00 charge per day for over-sized vehicles will apply.",
+      "description":
+        "An open-air lot under the Henry Hudson Highway in Morningside Heights.  This location is right next to Riverside Park and just a short walk from the Apollo Theatre and Columbia University. <br />\r\n<br />\r\nA $5.00 charge per day for over-sized vehicles will apply.",
+      "recommendations": 156
+    },
+
+    {
+      "location_name": "980 5th Ave. Garage",
+      "location_id": 5400,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/9-e-79th-st/",
+      "address": "9 E. 79th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10075",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7768896704745",
+      "lng": "-73.9633561577739",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the north side of 79th St between Madison Ave and 5th Ave. Look for green sign that reads \"Public Parking\" in yellow.",
+      "description":
+        "Secure and affordable indoor garage in Upper East Side. Just a few minutes to the Metropolitan Museum of Art Central Park Summerstage at Rumsey Playfield, and Guggenheim Museum.",
+      "recommendations": 53
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6702,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/201-w-66-st/",
+      "address": "201 W. 66 St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7750925129172",
+      "lng": "-73.9846879816147",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is on the right (north) side of W 66th St, between Amsterdam Ave and  West End Ave. Look for a black sign that reads \"Park\" in white with an orange arrow.",
+      "description":
+        "Secure and convenient indoor parking in Lincoln Square. Just a few blocks to the Metropolitan Opera, the Juilliard School, and Lincoln Center. Drivers like the secure facilities and speedy service.",
+      "recommendations": 318
+    },
+    {
+      "location_name": "MPG Parking",
+      "location_id": 3372,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/440-e-102nd-st/",
+      "address": "440 E. 102nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10029",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7860599942547",
+      "lng": "-73.9400461748688",
+      "eticket": 1,
+      "directions":
+        "This multi-level garage is on the southwest corner of E 102nd St and FDR Dr. The entrance to this garage is on the south side of E 102nd St.",
+      "description":
+        "This is an open-air, 3 story parking garage in East Harlem. The garage is conveniently located next to FDR Dr, and the Ward&apos;s Island Bridge.",
+      "recommendations": 34
+    },
+    {
+      "location_name": "Chelnik Parking",
+      "location_id": 4981,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/211-e-26th-st/",
+      "address": "211 E. 26th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10010",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7405800151351",
+      "lng": "-73.9811171969242",
+      "eticket": 1,
+      "directions":
+        "The entrance to this lot is located on the left (north) side of E 26th St between 2nd and 3rd Ave.  Look for a vertical black sign that reads \"Park\" in white.<br />\r\n<br />\r\nDue to demand and traffic patterns, please allow extra time for vehicle drop-off and pick-up during peak hours. Parking outside of your reserved time frame will result in additional fees in accordance with posted rates",
+      "description":
+        "Open-air lot located between Kips Bay and Gramercy Park with a friendly valet service. Due to demand and traffic patterns, please allow extra time for vehicle drop-off and pick-up during peak hours.<br />\r\n<br />\r\nAn additional fee will apply onsite for the following: $10/day for oversize vehicles (SUV/Minivan); $20/day for supersize vehicles (Truck/Van/Escalade) and exotic cars.<br />\r\n<br />\r\nThis location closes daily at 12:00 AM midnight, if parking overnight you will only be able to retrieve your vehicle between 6:00 am and 12:00 am.",
+      "recommendations": 122
+    },
+
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6549,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/333-e-46th-st/",
+      "address": "333 E. 46th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10017",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7520519",
+      "lng": "-73.9690398",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the left (north) side of E 46th St between 2nd Ave and 1st Ave. Look for a black vertical sign that reads \"PARK\" and turn left into the garage&apos;s ramp.",
+      "description":
+        "Drivers like the quick service at this East Midtown garage, just a short walk from Grand Central Terminal and the MetLife building.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: Mon-Sun 7AM-12AM",
+      "recommendations": 125
+    },
+    {
+      "location_name": "Quik Park - East 79 Garage",
+      "location_id": 6166,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/434-e-80th-st/",
+      "address": "434 E. 80th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10075",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7723159",
+      "lng": "-73.9505503",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the right (south) side of E 80th St between York Ave and 1st Ave. Look for a vertical red sign that reads \"Park\" in white.",
+      "description":
+        "An accommodating parking garage on the Upper East Side of Manhattan. Within walking distance of Museum Mile and a variety of public transportation options.",
+      "recommendations": 2
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6640,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/35-harrison-st/",
+      "address": "35 Harrison St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10013",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7189017444723",
+      "lng": "-74.0113188310223",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is located on the right (south) side of Harrison St between West St and Greenwich St. Look for a black horizontal sign that reads \"icon Park\" with an orange arrow next to it. Above the entrance will be a horizontal sign reading \"icon 24 hr Parking\".",
+      "description":
+        "Easy indoor parking in Tribeca. A short walk from Piers 25 & 26 and the Tribeca Performing Arts Center.",
+      "recommendations": 1
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6688,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/150-west-end-ave/",
+      "address": "150 West End Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7766716416921",
+      "lng": "-73.9866850371931",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the east side of West End Ave, just north of the W 66th St intersection.<br />\r\nLook for a black vertical sign that reads \"Park 24 Hrs\" with an orange arrow underneath it.<br />\r\nThe sign is above the garage entrance.",
+      "description":
+        "The entrance is on the west side of a small tan brick building. On its north side, the garage is next to a tall tan brick apartment building; on its south side its next to a similar building placed offset to the east.",
+      "recommendations": 0
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6689,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/165-west-end-ave/",
+      "address": "165 West End Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7766783307887",
+      "lng": "-73.9869487378746",
+      "eticket": 0,
+      "directions":
+        "The down ramp entrance to this garage is on the west side of West End Ave, between W 70th St and W 66th St.  Look for a black vertical sign that reads \"Park 24 Hrs\" in white.",
+      "description":
+        "Affordable and easy indoor parking in Lincoln Square, conveniently located near the Beacon Theatre, New York Historical Society, and Metropolitan Opera.",
+      "recommendations": 1
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6690,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/56-freedom-place/",
+      "address": "56 Freedom Place",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.778414",
+      "lng": "-73.9874842",
+      "eticket": 1,
+      "directions":
+        "The entrance is on the east side of Freedom Pl, between W 69th St and W 68th St. Look for a horizontal black sign that reads \"24 hr Parking\" with an orange arrow on either side.",
+      "description":
+        "Inexpensive parking at Upper West Side. Just a short walk to Merkin Concert Hall At Kaufman Music Center, Lincoln Center Theater and Beacon Theatre.",
+      "recommendations": 0
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6709,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/65-w-15th-st/",
+      "address": "65 W. 15th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7378500240016",
+      "lng": "-73.9958328008652",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right side of W 15th St, just before the 6th Ave intersection. Look for a black vertical sign that reads \"Park icon\" with an orange arrow underneath it. Above the garage entrance will be a horizontal sign that reads \"icon 24 hr Parking\".",
+      "description":
+        "Secure and affordable indoor garage near Union Square. Just a few minutes to the <br />\r\nUnion Square Theatre, Irving Plaza, and Gramercy Theatre.",
+      "recommendations": 14
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6740,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/363-w-30th-st/",
+      "address": "363 W. 30th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7507844758382",
+      "lng": "-73.9977872930467",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the left (north) side of W 30th St, near the northeast intersection of W 30th St and 9th Ave.  Look for a black sign that reads \"Icon\" in orange beside a black and orange arrow.",
+      "description":
+        "Secure indoor parking in Chelsea, conveniently located near Manhattan Center Grand Ballroom, Madison Square Garden, and Pennsylvania Station.<br />\r\n<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must purchase from the oversize rate below. Vehicles are considered over-sized if they are 181\" or longer and 70\" or higher, or 75\" high regardless of length.",
+      "recommendations": 0
+    },
+
+    {
+      "location_name": "iPark",
+      "location_id": 8162,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/16-e-37th-st/",
+      "address": "16 E. 37th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7498023721919",
+      "lng": "-73.9821213487085",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the left (south) side of E 37th St, between Madison Ave and 5th Ave. Look for a black sign above the entrance reading \"Public Parking\" in white, with red orange arrows on its side.",
+      "description":
+        "Inexpensive parking garage  located in Midtown New York. Just a short walk to the Empire Building, Chrysler Building,  and Madison Square Garden.",
+      "recommendations": 0
+    },
+    {
+      "location_name": "Quik Park",
+      "location_id": 6084,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/75-2nd-pl/",
+      "address": "75 2nd Pl.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10004",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7066635167569",
+      "lng": "-74.0169185401101",
+      "eticket": 1,
+      "directions":
+        "The garage is located on the north side of 2nd Pl, on the northwest corner of 2nd Pl and Little West St.  Look for a red vertical sign that reads \"Park\" in white and a red sign above the entrance reading \"Welcome To Quick Park\" in white.<br />\r\n<br />\r\nThe official address of this garage is 70 Little West St.",
+      "description":
+        "Secure and convenient indoor parking in Battery Park City. This location is just a short walk to the Staten Island Ferry Terminal, Battery Park and National Museum of the American Indian.",
+      "recommendations": 254
+    },
+    {
+      "location_name": "Quik Park - Cooper",
+      "location_id": 6126,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/301-329-e-86th-st/",
+      "address": "301-329 E 86th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10028",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7775234176135",
+      "lng": "-73.9505561736107",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the north side of E 86th St between 1st Ave and 2nd Ave. Look for a vertical red sign that reads \"Park\" in white.",
+      "description":
+        "This is an underground valet parking garage on Manhattan&apos;s Upper East Side. This garage is a fifteen minute walk away from both the Metropolitan Museum of Art and the Guggenheim Museum.",
+      "recommendations": 26
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8087,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/315-e-40th-st/",
+      "address": "315 E. 40th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7480738344298",
+      "lng": "-73.9719002461061",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of E 40th St between Tunnel Entrance St and 1st Ave Tunnel. Look for a vertical white sign that reads \"Park\" in red and a black sign that reads \"Entrance\" in white.",
+      "description":
+        "Secure and affordable indoor parking in Murray Hill. Just a short walk to the United Nations, Ralph Bunche Park, and Chrysler Building.",
+      "recommendations": 749
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6715,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/30-w-63rd-st/",
+      "address": "30 W. 63rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7709137275866",
+      "lng": "-73.9811057969928",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of W 63rd St, between Central Park West and Broadway. Look for a  black vertical sign that reads \"Park\" in white with an orange arrow pointing to the garage.<br />\r\n<br />\r\nThere are two Icon Parking garages facing each other on 63rd St.  This garage is on the left side of the street.",
+      "description":
+        "Secure and affordable indoor garage in Upper West Side. Just a short walk to the Lincoln Center,  David H Koch Theater, and David Geffen Hall. Also perfect for dining and shopping nearby.",
+      "recommendations": 368
+    },
+    {
+      "location_name": "Quik Park - Garden Garage",
+      "location_id": 6068,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/384-8th-ave/",
+      "address": "384 8th Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.749195242878",
+      "lng": "-73.9953758797623",
+      "eticket": 1,
+      "directions":
+        "The entrance for this parking lot is located on the right (east) side of 8th Ave between W 29th St and W 30th St. Look for a red sign that reads \"Park Here\" in white.",
+      "description":
+        "Paved lift-lot parking lot in Manhattan&apos;s Chelsea neighborhood. Conveniently located near Penn Station and Madison Square Garden.<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must purchase the oversize rate. Vehicles are considered over-sized if they are 181\" or longer and 70\" or higher, or 75\" high regardless of length.",
+      "recommendations": 1088
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 7837,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/80-e-67th-st/",
+      "address": "80 E. 67th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10065",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7680708030349",
+      "lng": "-73.9668287336826",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of E 67th St between Park Ave and Madison Ave. Look for a black sign that reads \"Park\" in white and a black overhead sign reading \"Welcome to Imperial Parking Systems.\"",
+      "description":
+        "Secure and affordable garage in Upper East Side. Just a few minutes to the Central Park Zoo, Tinker Auditorium, and St. Catherine&apos;s Park.",
+      "recommendations": 588
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6656,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/146-154-3rd-ave/",
+      "address": "146-154 3rd Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7343226886562",
+      "lng": "-73.9864859032461",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is mid-block on the west side of 3rd Ave, between E 15th St and E 16th St.<br />\r\nLook for a black vertical sign that reads \"Park Icon\" with an orange arrow next to it; there will also be a black horizontal sign reading \"Icon Park\".",
+      "description":
+        "Quick and easy parking near Union Square and Irving Plaza. Drivers like the courteous attendants at this indoor garage, convenient to the Irving Plaza.",
+      "recommendations": 73
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 7056,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/200-e-90th-st/",
+      "address": "200 E. 90th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.781180182711",
+      "lng": "-73.9516474306583",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the right side of E 90th St, just after the 3rd Ave intersection.<br />\r\nLook for a black sign that reads \"Park\" attached to a white-painted brick wall.<br />\r\nThe garage entrance will be to the right, underneath a black horizontal sign that reads \"Park\".",
+      "description":
+        "A reasonably-priced parking garage on the Upper East Side, a short walk from the Guggenheim Museum. Drivers like the courteous service.",
+      "recommendations": 158
+    },
+    {
+      "location_name": "MTP Parking",
+      "location_id": 1537,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/89-93-chrystie-st/",
+      "address": "89-93 Chrystie St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10002",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7176843331266",
+      "lng": "-73.9943924546242",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the west side of Chrystie St between Hester St and Grant St. Look for a vertical black sign that reads \"Park\" in white.",
+      "description":
+        "Secure and affordable indoor garage in Bowery. Just a few minutes to the Bowery Ballroom. Drivers report some wait times at peak hours but appreciate the courteous attendants.",
+      "recommendations": 377
+    },
+    {
+      "location_name": "Impark",
+      "location_id": 6522,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/105-e-121st-st/",
+      "address": "105 E. 121st St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10035",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.8024942880396",
+      "lng": "-73.9410001505166",
+      "eticket": 1,
+      "directions":
+        "This open-air lot is located on the left (south) side of 121st St, under the Park Ave Viaduct. This gated lot is close to the Metro North Station and adjacent to the Henry J Carter Hospital. Look for white \"Impark\" signs by the entrance.<br />\r\nThe official address to this garage is 120 E 122nd St,",
+      "description":
+        "Secure and affordable gated lot under the Park Ave viaducts in East Harlem. Conveniently located near Marcus Garvey Park, Dempsey Theater, and the Apollo Theater.<br />\r\n<br />\r\nParking outside of your pass time frame will result in additional fees on site.",
+      "recommendations": 0
+    },
+    {
+      "location_name": "Impark",
+      "location_id": 5210,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/40-e-89th-st/",
+      "address": "40 E. 89th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7825927243859",
+      "lng": "-73.9571193885058",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (east) side of E 89th St between Park Ave and Madison Ave. Look for signs that read \"Park\" in black-and-white marked with the Impark logo.",
+      "description":
+        "Secure and affordable indoor garage in the Upper East Side. Just a few minutes to the Guggenheim Museum, Central Park and Metropolitan Museum of Art.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: Mon-Thu 6AM to Midnight, Fri & Sat 6AM to 1AM, Sun 6AM to Midnight<br />\r\n<br />\r\nParking outside of your pass time frame will result in additional fees onsite.",
+      "recommendations": 64
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8128,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/8-w-15th-st/",
+      "address": "8 W. 15th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7369684",
+      "lng": "-73.9938184",
+      "eticket": 1,
+      "directions":
+        "The entrance is located on the left (south) side of W 15th St between 5th Ave and 6th Ave. Look for a white vertical sign that reads \"Park\" in red with arrows pointing the entrance.",
+      "description":
+        "A convenient indoor parking garage in Union Square. Just a short walk to Union Square Park, Vineyard Theatre and Irving Plaza.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the location hours: Mon-Fri, 7 AM to 11 PM;  Sat-Sun Closed.",
+      "recommendations": 70
+    },
+
+    {
+      "location_name": "iPark",
+      "location_id": 7802,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/245-e-63rd-st/",
+      "address": "245 E. 63rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7635660788424",
+      "lng": "-73.9633351564407",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right (north) side on E 63rd St between 3rd Ave and 2nd Ave. Look for a white horizontal sign that reads \"Park\" in red with two iPark crown logos. Also look for the white sign that reads \"Low Clearance 6&apos;8\" \" in red at the right side of the entrance.  <br />\r\n<br />\r\nThere are two iPark garages located side by side on E 63rd St.  This is the first garage on the right side of the street.",
+      "description":
+        "Secure and affordable indoor garage in the Upper East Side. Just a short walk to the Tinker Auditorium and Le Skyroom.",
+      "recommendations": 255
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6728,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/413-e-53rd-st/",
+      "address": "413 E. 53rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10022",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7553273763216",
+      "lng": "-73.9637130171327",
+      "eticket": 1,
+      "directions":
+        "This is parking at the Rivertower Apartments. The official address is 420 E 54th St, but the entrance is located on the right (north) side of E 53rd St, Sutton Pl S and 1st Ave. Look for a black vertical sign reading \"Park, 24 hrs.\" in white and a gray overhead sign reading \"Oriana at River Tower, Immediate Occupancy, 420 East 54th Street\" in white.",
+      "description":
+        "Secure and affordable parking garage in Sutton Place.  This location is only minutes to the United Nations Headquarters and just a short walk to Chrysler Building and Grand Central Terminal.",
+      "recommendations": 152
+    },
+    {
+      "location_name": "Car Park Systems",
+      "location_id": 5494,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/333-w-26th-st/",
+      "address": "333 W. 26th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7481307305872",
+      "lng": "-73.9990197680891",
+      "eticket": 1,
+      "directions":
+        "The entrance to this open-air parking lot is located on the left (north) side of W 26th St between 9th Ave and 8th Ave. Look for a black sign that reads \"Park\" in white with pink arrows.",
+      "description":
+        "Fenced-in, open-air parking lot in Chelsea. This location is only minutes from the SVA Theatre, Madison Square Garden, and the Hammerstein Ballroom.",
+      "recommendations": 744
+    },
+    {
+      "location_name": "Stable Car Parking",
+      "location_id": 6296,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/301-w-115th-st/",
+      "address": "301 W. 115th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10026",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.803907183847",
+      "lng": "-73.956179022789",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the right side of W 115th St, just after the intersection with Frederick Douglass Blvd.<br />\r\nLook for a white vertical sign that spells out \"Park\" in large blue letters.<br />\r\nThe garage entrance is to the right of the sign.",
+      "description":
+        "Indoor parking garage in Morningside Heights, conveniently located for visitors to Morningside Park and Columbia University, which is just a short walk away.<br />\r\n<br />\r\nIf you are driving an over-size vehicle (SUV, truck, van, etc.), you must purchase from the over-size rates below.<br />\r\n<br />\r\nA $5.00 charge per day for over-sized vehicles will apply.",
+      "recommendations": 11
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6662,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/186-e-64th-st/",
+      "address": "186 E. 64th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10065",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7648544",
+      "lng": "-73.9647384",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the right (south) side of E 64th St between 3rd Ave and Lexington Ave. Look for a black vertical sign that reads \"Park 24hr\" with an arrow pointing to the right; the entrance is down the ramp next to the vertical sign.",
+      "description":
+        "An Upper East Side parking option offering prompt service, and conveniently located for visitors to the Park Avenue Armory and Hunter College. Drivers note that there is no elevator at this location.",
+      "recommendations": 37
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6725,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/222-e-34th-st/",
+      "address": "222 E. 34th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7453833747444",
+      "lng": "-73.9774311749536",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the south side of E 34th St between 3rd Ave and 2nd Ave. Look for a black horizontal sign that reads \"icon 24 hr Parking\" with an orange arrow next to it.",
+      "description":
+        "Indoor parking near the mouth of the Queens Midtown Tunnel. Perfect for drivers hoping to park immediately upon arrival in Manhattan.",
+      "recommendations": 14
+    },
+
+    {
+      "location_name": "Rapid Park",
+      "location_id": 5133,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/55-e-87th-st/",
+      "address": "55 E 87th St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10025",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7812272418609",
+      "lng": "-73.9573274404755",
+      "eticket": 1,
+      "directions":
+        "This parking garage is located on the right (north) side of E 87th St between Park Ave and Madison Ave. Look for a vertical black sign that reads \"Park\" in white and a horizontal black sign above the entrance that reads \"Rapid Park\" in white.",
+      "description":
+        "Well-maintained covered garage in the Upper East Side. Conveniently located minutes away from Central Park.",
+      "recommendations": 61
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6557,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/20-w-64th-st/",
+      "address": "20 W. 64th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7716093268249",
+      "lng": "-73.9807208999678",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is on the right (south) side of W 64th St between Broadway and Central Park West. Look for a vertical black sign reading \"Park\" in white above an orange and black arrow.  Above the entrance is a black horizontal sign reading \"icon 24 hr Parking\" in orange and white.",
+      "description":
+        "Secure indoor parking in Lincoln Square, conveniently located near The Metropolitan Opera, Lincoln Center, and Julliard. Drivers like the clean facilities and friendly attendants.<br />\r\n<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must purchase from the oversize rate. Vehicles are considered over-sized if they are 181\" or longer and 70\" or higher, or 75\" high regardless of length.",
+      "recommendations": 662
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6564,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/511-w-54th-st/",
+      "address": "511 W 54th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7675020709439",
+      "lng": "-73.9905502802608",
+      "eticket": 1,
+      "directions":
+        "This garage&apos;s entrance is on 511 W 54th St., between 11th and 10th Avenues. Look for a vertical black sign with white lettering that reads \"PARK.\" Take left into garage heading east on W 54th St. under horizontal sign that reads \"24 hr. Parking.\"",
+      "description":
+        "A clean garage offering courteous and prompt service. Drivers love the low rates.",
+      "recommendations": 97
+    },
+    {
+      "location_name": "MPG Parking",
+      "location_id": 3357,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/180-w-20th-st-2/",
+      "address": "180 W. 20th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7418962477947",
+      "lng": "-73.996527493",
+      "eticket": 1,
+      "directions":
+        "This is parking at The Westminster Apartments located on the right (south) side of W 20th St, between 7th Ave and 6th Ave. Look for black signs that read \"MPG Park\" and \"MPG Parking\" both in white.",
+      "description":
+        "Secure and affordable parking at The Westminster Apartments in Chelsea. This garage is just a short walk to Irving Plaza, Gramercy Theatre, Madison Square Garden, and the Flatiron Building.",
+      "recommendations": 101
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6487,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/67-w-36th-st/",
+      "address": "67 W. 36th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10018",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7510486253891",
+      "lng": "-73.9863967895508",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of W 36th St between 6th and 5th Ave. Look for a black sign above the entrance that reads \"24 hr Parking\" in white with an orange arrow next to it.",
+      "description":
+        "Secure and affordable indoor garage in Midtown Manhattan, within walking distance to Penn Station, Herald Square, and Bryant Park.  This location is also very convenient to Madison Square Garden.",
+      "recommendations": 226
+    },
+
+    {
+      "location_name": "Quik Park - Real",
+      "location_id": 6110,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/106-e-36th-st/",
+      "address": "106 E. 36th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7480682",
+      "lng": "-73.9799332",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the right (south) side of E 36th St between Park Ave Lexington Ave.  Look for a vertical red sign that reads \"Park\" in white, and another red sign above the entrance that reads \"Welcome to Quick Park Public Parking\" in white.",
+      "description":
+        "Well-maintained garage in Manhattan&apos;s Murray Hill neighborhood. Just a short walk from the Empire State Building, Morgan Library and Museum, and Madison Square Garden.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: Mon-Thurs: 6AM to Midnight | Fri: 6AM to 2AM | Sat: 7AM to 2AM | Sun 7AM to Midnight",
+      "recommendations": 200
+    },
+
+    {
+      "location_name": "iPark",
+      "location_id": 7937,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/9-e-67th-st/",
+      "address": "9 E 67th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10065",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7691057",
+      "lng": "-73.9684107",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is on the right (north) side of E 67th St between 5th Ave and Madison Ave. Look for a blue sign above the entrance that reads \"iPark\" in white.",
+      "description":
+        "Clean, secure garage on the Upper East Side. Perfect for visiting Central Park or shopping on Madison Ave.",
+      "recommendations": 673
+    },
+    {
+      "location_name": "344 W. 45th St. Lot",
+      "location_id": 4765,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/344-w-45th-st/",
+      "address": "344 W. 45th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10036",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7598314519261",
+      "lng": "-73.9901688601913",
+      "eticket": 1,
+      "directions":
+        "The entrance to this surface lot is located on the left (south) side of W 45th St,  between 8th Ave and 9th Ave. Look for a black sign that reads \"Park\" in white text with white arrows atop a green attendant&apos;s  booth.",
+      "description":
+        "Secure, open-air parking lot in the Theatre District. Just a short walk to Madison Square Garden, the Minskoff Theatre, Eugene O&apos;Neill Theater, and Al Hirschfeld Theatre.",
+      "recommendations": 1225
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 7962,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/220-e-63rd-st/",
+      "address": "220 E. 63rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7634990382188",
+      "lng": "-73.9638613723219",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of E 63rd St between 2nd Ave and 3rd Ave. Look for a white sign that reads \"Park\" in red.<br />\r\n<br />\r\nThere are 2 garages facing each other on E 63rd St.  This is the garage on the left side of the street.",
+      "description":
+        "Secure and affordable indoor garage in the Upper East Side. Just a few minutes to the St Catherine&apos;s Park, 14 Honey Locusts Park and a variety of restaurants.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: Mon-Sun 6AM to Midnight.",
+      "recommendations": 136
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6727,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/307-w-50th-st/",
+      "address": "307 W. 50th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7625645255159",
+      "lng": "-73.9866346679628",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of W 50th St, between 9th Ave and 8th Ave. Look for a black overhead sign that reads \"24hr Parking\" in white.",
+      "description":
+        "Secure garage in Hell&apos;s Kitchen. Just a few blocks from the Gershwin Theatre, Neil Simon Theatre, and August Wilson Theatre.Also perfect for shops and restaurants in the area.",
+      "recommendations": 163
+    },
+    {
+      "location_name": "LAZ Parking",
+      "location_id": 7478,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/530-540-e-73rd-st/",
+      "address": "530-540 E. 73rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7666431029557",
+      "lng": "-73.9512240700606",
+      "eticket": 1,
+      "directions":
+        "This parking garage is located on the right (south) side of E 73rd St near the intersection of E 73rd and FDR Drive. Look for a yellow traffic sign warning of a stop sign at the intersection. The entrance to this garage is just past the open-air LAZ parking lot which is marked with a red and white “Park” sign.",
+      "description":
+        "Well-run garage on the Upper East Side. Just a short walk to  Sotheby&apos;s, Cornell University Hospital, the Bohemian National Hall and John Jay Park.<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must pay a fee per day on-site:<br />\r\n<br />\r\nSUV Fee - $15 <br />\r\nOversized -  $20 (Ford 150, Suburban, Escalade)",
+      "recommendations": 52
+    },
+    {
+      "location_name": "Quik Park - Hudson 200",
+      "location_id": 6050,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/446-w-70th-st/",
+      "address": "446 W. 70th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7794406131181",
+      "lng": "-73.9878612756729",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the south side of W 70th St,  between Riverside Blvd and Freedom Pl. Look for a black sign above the entrance that reads \"Park\" in white, with white and black Quick Park signs on both ends of the sign.<br />\r\n<br />\r\nThe official address of this garage is 200 Riverside Blvd.",
+      "description":
+        "Well-run garage in Manhattan&apos;s Lincoln Square neighborhood. Just a short walk from the Lincoln Center, Metropolitan Opera, and the Beacon Theatre.",
+      "recommendations": 167
+    },
+    {
+      "location_name": "Rapid Park",
+      "location_id": 5131,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/148-e-33rd-st/",
+      "address": "148 E. 33rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7453489254968",
+      "lng": "-73.9796362159386",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of E 33rd St between 3rd Ave and Lexington Ave. Look for a red building with \"Park\" in white letters.<br />\r\n<br />\r\nIf you are driving an over-size vehicle (SUV, truck, van, etc.), you must purchase from the corresponding oversize/supersize rate.",
+      "description":
+        "Secure and affordable indoor garage in Midtown East, Just a few minutes to Famous, and the 2nd Avenue Deli. Drivers like the rapid entry/exit and polite staff.<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must purchase from the oversize rate.",
+      "recommendations": 330
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8083,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/311-w-50th-st/",
+      "address": "311 W. 50th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7629368462665",
+      "lng": "-73.9872556677801",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the left (north) side of W 50th St, between 9th Ave and 8th Ave.  Look for a white sign that reads \"Park\" in red. There will also be a black sign by the entrance reading \"311 West 50th\" in white.",
+      "description":
+        "Secure and affordable parking garage in Hell&apos;s Kitchen. Just a short walk to the  Gershwin Theatre, Neil Simon Theatre and August Wilson Theatre.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours Mon- Fri 5am to 1am, Sat-Sun 6am to 12am",
+      "recommendations": 1139
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6484,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/300-e-29th-st/",
+      "address": "300 E. 29th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7411819562479",
+      "lng": "-73.9771683969867",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the left (south) side of E 29th St between 2nd Ave and 1st Ave. Look for a vertical black sign that reads \"Park\" in white with an orange arrow underneath.",
+      "description":
+        "An indoor parking option in the Flatiron neighborhood. Perfect place to park for the AMC Loews Kips Bay movie theater, located just a couple of blocks away.",
+      "recommendations": 114
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6528,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/205-e-38th-st/",
+      "address": "205 E. 38th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7480210022402",
+      "lng": "-73.9757084380835",
+      "eticket": 1,
+      "directions":
+        "This valet parking garage is located on the left (north) side of E 38th St between 3rd Ave and Tunnel Exit St. Look for a gray building with black vertical signs reading \"Park\" in white.",
+      "description":
+        "Indoor valet parking in East Midtown. Just a short walk to the United Nations, Grand Central, and Chrysler Building. Perfectly located for drivers traveling via the Queens-Midtown Tunnel.<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must purchase from the oversize rate. Vehicles are considered over-sized if they are 181\" or longer and 70\" or higher, or 75\" high regardless of length.",
+      "recommendations": 41
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6533,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/51-w-22nd-st/",
+      "address": "51 W. 22nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10010",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7419026812104",
+      "lng": "-73.9925383542411",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the left (north) side of W 22nd St between Ave of the Americas and 5th Ave. Look for a black horizontal sign reading \"icon 24 hr Parking\" with an orange arrow next to it.",
+      "description":
+        "Drivers love the speedy and friendly valet service at this indoor parking option in Flatiron. Perfectly located for visitors to Madison Square Park and Union Square.",
+      "recommendations": 198
+    },
+    {
+      "location_name": "Park-it Management",
+      "location_id": 4153,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/301-e-64th-st/",
+      "address": "301 E. 64th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10065",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7634651792975",
+      "lng": "-73.9612430334091",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is located on the left (north) side of E 64th St between 1st and 2nd Ave.  Look for a black sign that reads \"Park\" in white. The garage is directly across Avis.",
+      "description":
+        "Affordable  garage in the Upper East Side, steps away from the Beekman Theatre.  Just a short walk to  Bloomingdale&apos;s, Central Zoo Park and  Florence Gould Hall. <br />\r\n<br />\r\nIf you are driving an oversized vehicle, you may be subject to an estimated additional fee of $5 to $30/day on-site. There is also a $15.00 charge for exotic vehicles ( Ferrari, Porsche, Maserati, Bentley, etc.).",
+      "recommendations": 341
+    },
+    {
+      "location_name": "Rapid Park",
+      "location_id": 5304,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/103-w-89th-st/",
+      "address": "103 W. 89th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10024",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7888189",
+      "lng": "-73.971177",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the right (north) side of W 89th St between Amsterdam Ave and Columbus Ave. Look for a black sign that reads \"Park\" in white.",
+      "description":
+        "Well-maintained covered garage in New York city,  located less than a mile from Symphony Space and Central Park.<br />\r\n<br />\r\n<br />\r\nThis location cannot accommodate over-size  vehicles.",
+      "recommendations": 105
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6618,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/440-w-57th-st/",
+      "address": "440 W. 57th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7685573680444",
+      "lng": "-73.9874321222305",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is  on the south side of W 57th St, between 10th Ave and 9th Ave.<br />\r\nLook for a hanging vertical black sign that reads \"Park 24 Hrs\" in white with an orange arrow next to it.",
+      "description":
+        "Well-maintained indoor garage near Hell&apos;s Kitchen. Just a short walk to Terminal 5,  Time Warner Center, and Lincoln Center for the Performing Arts,",
+      "recommendations": 259
+    },
+
+    {
+      "location_name": "Quik Park",
+      "location_id": 6057,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/235-w-56th-st/",
+      "address": "235 W. 56th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7657702556213",
+      "lng": "-73.9824861288071",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the left (north) side of W 56th St between 8th Ave and Broadway. Look for a vertical red sign that reads \"Park\" in white. Also look for a white overhead sign by the entrance that reads \"Quik Park\" in dark blue.",
+      "description":
+        "Well-maintained and secure garage in Hell&apos;s Kitchen. Just a few blocks from Carnegie Hall and a quick walk from Time Warner Center, Roseland Ballroom, and Broadway Theatre. <br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must pay $15 per day on-site. Vehicles are considered over-sized if they are 181\" or longer and 70\" or higher, or 75\" high regardless of length.",
+      "recommendations": 412
+    },
+    {
+      "location_name": "ParkRight",
+      "location_id": 6332,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/300-e-77th-st/",
+      "address": "300 E. 77th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10075",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7718091266982",
+      "lng": "-73.9555325030411",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the left (south) side of E 77th St between 2nd Ave and 1st Ave. Look for a red sign inside the entrance that reads \"Welcome\" in white.",
+      "description":
+        "Parking garage on Manhattan’s Upper East Side, located in the Seville apartment building. Drivers like the convenient location and friendly service. Charge your EV at one of the Tesla or universal charging stations.<br />\r\n<br />\r\nAn additional fee will apply onsite for hourly/transient parkers with the following oversize vehicles: SUV/minivan: add $15/day | Pick-up trucks or vans: add $20/day",
+      "recommendations": 399
+    },
+    {
+      "location_name": "Rapid Park",
+      "location_id": 6843,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/351-e-83rd-st/",
+      "address": "351 E. 83rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7751719800238",
+      "lng": "-73.9511654951065",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the right (north) side of E 83rd St, between 1st Ave and 2nd Ave. Look for a black sign that reads \"Park, Open 24 Hours\" in white with Rapid Park logo above it.",
+      "description":
+        "Secure garage in Upper East Side. This location is less than a mile from the Central Park, Guggenheim Museum, and Metropolitan Museum of Art.",
+      "recommendations": 95
+    },
+    {
+      "location_name": "1109 S. Main St. Lot",
+      "location_id": 4871,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/los-angeles-parking/1109-s-main-st/",
+      "address": "1109 S. Main St.",
+      "city": "Los Angeles",
+      "state": "CA",
+      "zip": "90015",
+      "type": "commercial-lot",
+      "timezone": "America/Los_Angeles",
+      "lat": "34.0388224231491",
+      "lng": "-118.258443586528",
+      "eticket": 1,
+      "directions":
+        "The lot entrance is on the west side of S Main St, between W 11th St and W 12th St. Look for a blue and white sign reading \"Park Here\" in red under Unified Parking logo.",
+      "description":
+        "Convenient surface lot in downtown Los Angeles. Just a short walk to the Mayan, Belasco Theatre, Staples Center, and Orpheum Theatre. The Los Angeles Memorial Coliseum is only 3 miles away, easily accessible using the Metro Expo Line.",
+      "recommendations": 19
+    },
+    {
+      "location_name": "MPG Parking",
+      "location_id": 3367,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/302-w-144th-st/",
+      "address": "302 W. 144th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10039",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.822468630425",
+      "lng": "-73.9428316801786",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the right (north) side of W 144th St,  between  Frederick Douglass Blvd and Bradhurst Ave.  Look for a black, vertical sign above the entrance that reads \"Public Park, Open 24 hours\" in white, and yellow poles on either side of the entrance.",
+      "description":
+        "Secure and affordable indoor parking in Harlem. Drivers love the easy access to surrounding recreational parks.",
+      "recommendations": 8
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6544,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/245-e-40th-st/",
+      "address": "245 E. 40th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7487911288518",
+      "lng": "-73.9735876070336",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of E 40th St between Tunnel Exit St and 2nd Ave. Look for a vertical black sign that reads \"Park\" in white.",
+      "description":
+        "Secure and affordable indoor parking in Murray Hill. Just a few minutes to the Madison Square Garden, Chrysler Building, and Grand Central.",
+      "recommendations": 98
+    },
+
+    {
+      "location_name": "Rapid Park",
+      "location_id": 5311,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/9-w-100th-st/",
+      "address": "9 W. 100th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10024",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7945058437699",
+      "lng": "-73.9633339938831",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the left (north) side of W 100th St between Central Park West and Manhattan Ave. Look for a black vertical sign that reads \"Park\" in white.",
+      "description":
+        "Secure Morningside Heights garage with onsite attendants. Just a short walk from both Symphony Space and Columbia University.",
+      "recommendations": 20
+    },
+    {
+      "location_name": "Enterprise Parking Systems",
+      "location_id": 7882,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/451-10th-ave-2/",
+      "address": "451 10th Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10018",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7555572932038",
+      "lng": "-73.9986625313759",
+      "eticket": 1,
+      "directions":
+        "This surface lot is located on the left (west) side of 10th Ave between W 36th St and  W 35th St. Look for a blue sign that reads \"Park\" in white and a white sign reading \"451-59 10 Ave.\"",
+      "description":
+        "Fenced-in open-air lot in Hell&apos;s Kitchen. Within walking distance of the Javits Convention Center and multiple art galleries.",
+      "recommendations": 7
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6752,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/315-e-38th-st/",
+      "address": "315 E. 38th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7468942804676",
+      "lng": "-73.9728391262055",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the left (north) side of E 38th St between Tunnel Entrance St and 1st Ave. Look for a horizontal black sign that reads \"24 hr. Parking\" in white with an orange arrow.<br />\r\n<br />\r\nThere is a secondary entrance on E 39th St.",
+      "description":
+        "Inexpensive parking garage in Murray Hill. Just a short walk to the Empire State Building, Grand Central Terminal and The Morgan Library & Museum.<br />\r\n<br />\r\nThis garage is perfect for drivers coming from the Queens Midtown Tunnel and the FDR drive.",
+      "recommendations": 144
+    },
+    {
+      "location_name": "LAZ Parking",
+      "location_id": 7475,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/36-w-58th-st/",
+      "address": "36 W. 58th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7643157103002",
+      "lng": "-73.9752913545817",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right (south) side of 58th St between 6th Ave and 5th Ave. Look for a red vertical sign reading \"Park\" in white and a white sign that reads \"Lax Special\" just before a down ramp into the Solow Building.<br />\r\n<br />\r\nThe official address of this garage is 9 West 57th St.",
+      "description":
+        "Secure and affordable indoor garage in Midtown Center. Just a few minutes to Central Park, Carnegie Hall, Museum of Modern Art, and French Institute Alliance Francaise.<br />\r\n<br />\r\nDrivers  who go over the booked time frame or enter the location before the reservation begins are subject to additional fees.",
+      "recommendations": 676
+    },
+    {
+      "location_name": "LAZ Parking",
+      "location_id": 7480,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/242-e-67th-st/",
+      "address": "242 E. 67th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10065",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7657418150961",
+      "lng": "-73.9611877128482",
+      "eticket": 1,
+      "directions":
+        "The down ramp entrance to this garage  is located on the left (south) side of E 67th St,  between 2nd Ave and 3rd Ave. Look for a blue sign that reads \"Park\" in white and a wall sign above the entrance that reads \"265 Garage\" in silver.",
+      "description":
+        "Well-maintained garage in Lenox Hill. Just a short walk to Florence Gould Hall at FIAF, Central Park Zoo, and Dangerfield&apos;s.<br />\r\n<br />\r\n<br />\r\nIf you are driving an oversize vehicle, you must pay a fee per day on-site:<br />\r\n<br />\r\nSUV Fee - $15 <br />\r\nOversize -  $20 (Ford 150, Suburban, Escalade)",
+      "recommendations": 177
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6521,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/47-w-54th-st/",
+      "address": "47 W. 54th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.762233154143",
+      "lng": "-73.9778852276686",
+      "eticket": 1,
+      "directions":
+        "The entrance is located on the left side of W 54th St between 6th Ave and 5th Ave. Look for a vertical black sign that reads \"Park\" in white with orange arrow underneath. Entrance is underneath signs reading \"icon 24 hr Parking\" and \"icon enter here / no full-size vans\".",
+      "description":
+        "A perfect garage located in Midtown Center. Just a short walk to the Museum of Modern Art, New York City Center, Gershwin Theatre and Broadway Theatre.",
+      "recommendations": 173
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8104,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/250-w-19th-st/",
+      "address": "250 W. 19th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7422139468925",
+      "lng": "-73.9991641044617",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on W 19th St, between  7th Ave and 8th Ave. Look for the black vertical sign that reads \"Park\" in white. There will also be a black overhead sign by the entrance that reads \"Welcome to Imperial Parking Systems; Main Entrance\" in white.",
+      "description":
+        "Secure and affordable indoor garage in downtown Manhattan. Just a few minutes to the Madison Square Garden, Flatiron building, and Gramercy Theatre.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: M-F 6AM-1AM / Sat-Sun 7AM-1AM",
+      "recommendations": 697
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6730,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/350-e-52nd-st/",
+      "address": "350 E. 52nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10022",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7553801621725",
+      "lng": "-73.965867725552",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the right (south) side of E 52nd St between 1st Ave and 2nd Ave. Look for a black vertical sign that reads \"Park 24 hr\" with an orange arrow next to it. Above the garage entrance and vertical sign will be a horizontal sign reading \"24 hr Parking\".",
+      "description":
+        "Indoor parking garage in Manhattan&apos;s Midtown East, conveniently located a short walk from multiple subway lines. Drivers love the rapid service and low rates.",
+      "recommendations": 81
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8156,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/241-w-55th-st/",
+      "address": "241 W. 55th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7651619417694",
+      "lng": "-73.9829009585264",
+      "eticket": 1,
+      "directions":
+        "The entrance is located on the right (north) side of W 55th St, between Broadway and 8th Ave. Look for a white sign that reads \"Park\" in red letters.<br />\r\n<br />\r\nThere are two garages facing each other on W. 55th St. This garage is located on the right side of the street.",
+      "description":
+        "A convenient parking garage in Hell&apos;s Kitchen. Just a short walk to Broadway Theatre, Carnegie Hall, 57 Street Subway Station and August Wilson Theatre.",
+      "recommendations": 285
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6755,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/721-10th-ave/",
+      "address": "721 10th Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7643107143697",
+      "lng": "-73.9922488932541",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the left (west) side of 10th Ave between W 49th St and W 50th St. Look for a black vertical sign that reads \"Park 24 hrs\" in white and has an orange and black arrow pointing to the entrance.",
+      "description":
+        "An affordable parking garage at the Skyline Hotel. Drivers appreciate the convenient location and easy in and out. Just a short walk to Stage 48, New World Stages and The Daily Show With Trevor Noah.",
+      "recommendations": 251
+    },
+    {
+      "location_name": "LAZ Parking",
+      "location_id": 5892,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/294-pearl-st/",
+      "address": "294 Pearl St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10038",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7082976",
+      "lng": "-74.0031066",
+      "eticket": 1,
+      "directions":
+        "This  fenced-in parking lot is located on the south side of Pearl St between Beekman St and Peck Slip. Look for a black sign that reads \"Park\" in white.  Also look for the white vertical sign by the entrance reading \"Enter\" in black.",
+      "description":
+        "Inexpensive fenced open-air lot in downtown New York. Just a short walk to East River Esplanade, Titanic Memorial Park, South Street Seaport and Schimmel Center.",
+      "recommendations": 142
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6750,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/237-w-thames-st/",
+      "address": "237 W. Thames St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10280",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7083454759718",
+      "lng": "-74.0168996965574",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is located on the north side of W Thames St between Battery Pl and South End Ave, adjacent to Liberty Court. Look for a black board rate outside the entrance that has an orange icon logo with an arrow.",
+      "description":
+        "Affordable and well-maintained garage  in Lower Manhattan, a few blocks away from Brookfield Place. Just a short walk from <br />\r\nSouth Cove Park and  9/11 Memorial & Museum.",
+      "recommendations": 94
+    },
+    {
+      "location_name": "Quik Park",
+      "location_id": 6060,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/215-w-48th-st/",
+      "address": "215 W. 48th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10036",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7604354127251",
+      "lng": "-73.9854797255248",
+      "eticket": 1,
+      "directions":
+        "This is parking at the Crowne Plaza Times Square located on the left (north) side of W 48th St, between 8th Ave and Broadway Ave. Look for a red sign that reads \"Quik Park, Open to Public 24 hours\" in white.<br />\r\nThe official address of this garage is 1601 Broadway.",
+      "description":
+        "Secure and affordable parking at the Crowne Plaza Times Square in the Theater District. Just a few minutes to the Eugene O&apos;Neill Theatre, Walter Kerr Theatre, Palace Theatre, Richard Rodgers Theatre, and Brooks Atkinson Theatre.",
+      "recommendations": 498
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 8401,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/479-e-90th-st/",
+      "address": "479 E. 90th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10128",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7787744261256",
+      "lng": "-73.9457918331027",
+      "eticket": 1,
+      "directions":
+        "This parking garage is located on the left (north) side of E 90th St, near the southeast corner of E 90th St and York Avenue. Look for a black vertical sign that reads \"Park\" in white, and another black sign above the entrance that reads \"24hr Parking\" white.",
+      "description":
+        "Safe, well-maintained garage on the Upper East Side, just a short walk to the Guggenheim Museum and Central Park.  Drivers love the friendly and efficient service.",
+      "recommendations": 7
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6529,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/212-e-19th-st/",
+      "address": "212 E. 19th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7360599787031",
+      "lng": "-73.9844047652696",
+      "eticket": 1,
+      "directions":
+        "The entrance is located on the left (south) side of E 19th St between 3rd Ave and 2nd Ave. Look for a vertical black sign that reads \"Park\" in white and \"icon\" in orange with an orange arrow.",
+      "description":
+        "Easy and efficient indoor parking in Gramercy Park. Just a short walk to Gramercy Theatre, Irving Plaza, 14 Street Union Square Station and Madison Square Park.",
+      "recommendations": 24
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6692,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/312-e-70th-st/",
+      "address": "312 E. 70th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7670529106718",
+      "lng": "-73.9585876465662",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the right (south) side of E 70th St between 2nd Ave and 1st Ave.<br />\r\nLook for a black vertical sign that reads \"Park\" with an orange arrow underneath it. Above the entrance will be a black horizontal sign that reads \"Parking\" with an orange arrow next to it.",
+      "description":
+        "Parking is quick and easy at this efficiently-run garage on the Upper East Side. Drivers like the easy access to FDR Drive from this location.",
+      "recommendations": 24
+    },
+    {
+      "location_name": "Car Park Systems",
+      "location_id": 5504,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/101-w-23rd-st/",
+      "address": "101 W. 23rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7432845893779",
+      "lng": "-73.993374108633",
+      "eticket": 1,
+      "directions":
+        "The garage is located on the north side of W 23rd St between 7th Ave and 6th Ave (Avenue of the Americas). Look for the black signs that read \"Park; Open 24 Hours\" in white, with arrows pointing at the entrance.",
+      "description":
+        "Easy access valet garage parking in downtown New York. Just a short walk to the Flatiron Building,  Gramercy Theatre, and Madison Square Park.",
+      "recommendations": 181
+    },
+
+    {
+      "location_name": "Rapid Park",
+      "location_id": 5332,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/150-e-77th-st/",
+      "address": "150 E. 77th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10075",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7732912319892",
+      "lng": "-73.9592724238731",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the left (south) side of E 77th St between Lexington Ave and 3rd Ave. Look for a vertical black sign that reads \"Park\" in white.",
+      "description":
+        "A secure parking garage on the Upper East Side of Manhattan. About a half mile&apos;s walk from the Metropolitan Museum of Art.<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must purchase from the over-size rate. Failure to do so will result in additional fees on-site or refused entry.",
+      "recommendations": 18
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8068,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/300-w-55-st/",
+      "address": "300 W. 55 St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.765579297576",
+      "lng": "-73.984341127798",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of W 55th St, between 8th Ave and 9th Ave. Look for a black sign reading \"Public Parking\" and \"Park\" in white attached to green scaffolding. Enter the white-painted down ramp entrance.",
+      "description":
+        "Secure and affordable indoor garage in Hell&apos;s Kitchen. Just a few minutes to the Broadway Theatre, Gershwin Theatre, Roseland Ballroom, and Carnegie Hall. Also perfect for a variety of shopping and dining spots.",
+      "recommendations": 1263
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8112,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/212-214-e-47th-st/",
+      "address": "212-214 E. 47th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10017",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7535437709118",
+      "lng": "-73.9714198373258",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of E 47th St, between  2nd Ave and 3rd Ave.  Look for a white vertical sign that reads \"Park\" in red, and a gray sign by the entrance reading \"212 East 47th St\".<br />\r\n<br />\r\nA  secondary entrance is located on E 46th St, between 3rd Ave and 2nd Ave.",
+      "description":
+        "Secure and affordable indoor garage in Midtown East. Just a few minutes to the Chrysler Building, Museum of Modern Art, and Times Square.",
+      "recommendations": 554
+    },
+
+    {
+      "location_name": "iPark",
+      "location_id": 7835,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/184-e-73rd-st/",
+      "address": "184 E. 73rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7706080149668",
+      "lng": "-73.9606408774853",
+      "eticket": 1,
+      "directions":
+        "This parking garage is located on the left (south) side of E 73rd St between 3rd Ave and Lexington Ave. Look for black signs that read \"Public Parking\" and \"Park\" in white, and white signs that read \"Park\" in red.",
+      "description":
+        "Secure, well-run garage on the Upper East Side. Just a short walk to the Central Park Summerstage at Rumsey Playfield, The Metropolitan Museum of Art and Central Park Zoo.",
+      "recommendations": 385
+    },
+    {
+      "location_name": "Park-It Management",
+      "location_id": 4141,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/211-e-18th-street/",
+      "address": "211 E. 18th Street",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7355806611396",
+      "lng": "-73.9844504687519",
+      "eticket": 1,
+      "directions":
+        "The entrance to this lot is located on the left (north) side of E 18th St between 3rd Ave and 2nd Ave. Look for the entrance in a brown brick building; the entrance will have yellow posts on either side.",
+      "description":
+        "Well-lit garage within walking distance to Stuyvesant Square and St. George&apos;s Episcopal Church. Drivers like the affordable prices and professional service.<br />\r\n<br />\r\nIf you are driving an oversized vehicle, you may be subject to an estimated additional fee of $15/day on-site.",
+      "recommendations": 679
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 7795,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/480-e-101st-st/",
+      "address": "480 E. 101st St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10029",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7867641674282",
+      "lng": "-73.9432615041733",
+      "eticket": 1,
+      "directions":
+        "While the official address is 480 E 101st St, the entrance to this indoor garage is located on the left (south) side of E 101st St between 1st Ave and 2nd Ave. Look for a white sign that reads \"Park\" in red and a black sign that reads \"Main Entrance\" in white.",
+      "description":
+        "Secure and affordable indoor parking East Harlem. Just a short walk to the Cherry Tree Park, Ruppert Park, and White Park.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: Sun-Thu 6 am- 1 am, Fri-Sat 6 am to 2 am",
+      "recommendations": 74
+    },
+    {
+      "location_name": "Enterprise Parking Systems",
+      "location_id": 7893,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/160-e-62nd-st/",
+      "address": "160 E. 62nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7634905",
+      "lng": "-73.9655847",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right (south) side of E 62nd St between 3rd Ave and Lexington Ave. Look for a gold sign above the entrance that reads \"Garage\" in white.",
+      "description":
+        "Secure and affordable indoor garage in Upper East Side. Just a short walk to the Honey Locust Park, FIAF French Institute Alliance, and a variety of shops and restaurants.<br />\r\n<br />\r\nIf you are driving an oversized vehicle, you may be subject to an estimated additional fee of $10/day on-site.",
+      "recommendations": 32
+    },
+
+    {
+      "location_name": "iPark",
+      "location_id": 8089,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/7-e-14th-st/",
+      "address": "7 E. 14th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10003",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7355636259915",
+      "lng": "-73.9921581745148",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the north side of E 14th St between Union Square W and 5th Ave. Look for a white horizontal sign that reads \"Parking\" in red.",
+      "description":
+        "Secure and affordable indoor garage in Union Square. Just a few minutes to the Irving Plaza, Webster Hall, and Gramercy Theatre.",
+      "recommendations": 507
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 7966,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/245-e-124th-st/",
+      "address": "245 E. 124th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10035",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.8024746",
+      "lng": "-73.93445",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of E 124th St between 3rd Ave and 2nd Ave. look for a red sign that reads \"Park\" in red and \"Open 24 Hrs\" in black.",
+      "description":
+        "Secure and affordable indoor parking in East Harlem. Just a short walk to the Dream Street Park, Harlem River Park, and Triboro Plaza.",
+      "recommendations": 73
+    },
+    {
+      "location_name": "403 East 60th Street Parking LLC",
+      "location_id": 8290,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/405-407-e-60th-st/",
+      "address": "405-407 E. 60th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10022",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7600718427722",
+      "lng": "-73.9608708399159",
+      "eticket": 1,
+      "directions":
+        "This valet parking garage is on the left (north) side of E 60th St between 1st Ave and York Ave. The entrance is located near the corner of E 60th St and 1st Ave. Look for a black vertical sign that reads \" Park\" in yellow letters.<br />\r\n<br />\r\nPlease be advised that E 60th St is a one-way, eastbound street.",
+      "description":
+        "A convenient valet parking garage in Lenox Hill. Just a short walk to Dangerfield&apos;s, Roosevelt Island Tramway and Caspary Auditorium.<br />\r\n<br />\r\nNOTE: A $10.00 charge for over-sized vehicles will apply.",
+      "recommendations": 426
+    },
+
+    {
+      "location_name": "Quik Park -  East 102nd",
+      "location_id": 6117,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/315-e-102nd-st/",
+      "address": "315 E. 102nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10029",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7876903771616",
+      "lng": "-73.9431217410698",
+      "eticket": 1,
+      "directions":
+        "This parking garage is located on the left (north) side of E 102nd St between 1st Ave and 2nd Ave. Look for a vertical red sign that reads \"Park\" in white. There will also be a red overhead sign by the entrance that reads \"Welcome To Quik Park\" in white.",
+      "description":
+        "Affordable valet garage in East Harlem. Just a short walk to Thomas Jefferson Park. Drivers like the reliable service and fast entry and exit.",
+      "recommendations": 138
+    },
+    {
+      "location_name": "Bright Management",
+      "location_id": 4756,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/356-w-52nd-st/",
+      "address": "356 W. 52nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7642633",
+      "lng": "-73.9871886",
+      "eticket": 1,
+      "directions":
+        "This open-air lot is located on the right (south) side of W 52nd St between 9th Ave and 8th Ave. Look for a red and white attendant booth and red signs that read \"Park, Fast in and Out East/West\".<br />\r\n<br />\r\nA secondary entrance is located on W 51st St, between 9th Ave and 8th Ave.",
+      "description":
+        "Convenient and affordable open-air lot in Hell&apos;s Kitchen. Just a short walk to the August Wilson Theatre, Neil Simon Theatre, and Gershwin Theatre.",
+      "recommendations": 802
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8113,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/59-63-allen-st-2/",
+      "address": "59-63 Allen St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10002",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7171352033612",
+      "lng": "-73.9916784599392",
+      "eticket": 1,
+      "directions":
+        "The entrance is located on the right (west) side of Allen St between Grand St and Hester St. Look for a white sign that reads \"Park\" in red letters.",
+      "description":
+        "Inexpensive parking garage located in Lower Manhattan. Just a short walk to Grand St Station, Abrons Arts Center and Dixon Place.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: M-Su 6AM to 12AM",
+      "recommendations": 548
+    },
+
+    {
+      "location_name": "iPark",
+      "location_id": 8129,
+      "parkwhiz_url": "http://www.parkwhiz.com/p/new-york-parking/2-e-60th-st/",
+      "address": "2 E. 60th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10022",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7646347",
+      "lng": "-73.9722785",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the left (south) side of E 60th St, between Madison Ave and 5th Ave.  Look for black signs that read \"Park\" in white, with red arrows pointing towards the entrance.",
+      "description":
+        "Secure and inexpensive parking in Lenox Hill, conveniently located near the Waldorf Astoria,  the Metropolitan Club and the New York City Center.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: Sun-Thur 8AM to Midnight, Fri-Sat 8AM to 1AM",
+      "recommendations": 60
+    },
+    {
+      "location_name": "ParkRight",
+      "location_id": 3355,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/39-e-29th-st/",
+      "address": "39 E. 29th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7442596488729",
+      "lng": "-73.9843057142571",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right (north) side of E 29th Street between Madison Ave and Park Ave S. Look for a gray sign above the entrance that reads \"Parking\" in white.",
+      "description":
+        "Secure and affordable indoor garage in Midtown South Central. Just a few minutes to the Madison Square Garden, Gramercy Theatre, and Empire State Building. Charge your EV at one of the Tesla or universal charging stations.<br />\r\n<br />\r\nAn additional fee will apply onsite for hourly/transient parkers with the oversize vehicles: SUV/Minivan - $15/day; Supersize vehicles - $25/day",
+      "recommendations": 243
+    },
+
+    {
+      "location_name": "Park-it Management",
+      "location_id": 4144,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/25-w-13th-st/",
+      "address": "25 W. 13th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10011",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7360046528799",
+      "lng": "-73.995618224144",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right (north) side of W 13th St between 5th Ave and 6th Ave. Look for a black sign that reads \"Park\" in white, with an encircled black arrow below it.",
+      "description":
+        "Secure and affordable indoor garage in Greenwich Village. Just a short walk to Tammany Hall, Irving Plaza, and Union Square Park.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: M-F 7AM-11PM<br />\r\n<br />\r\nA $10 charge for regular over-sized vehicles will apply. Exceptionally large full-size vehicles will be charged a higher fee.",
+      "recommendations": 123
+    },
+    {
+      "location_name": "Quik Park",
+      "location_id": 6061,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/223-w-46th-st/",
+      "address": "223 W. 46th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10036",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7592707713632",
+      "lng": "-73.986451774836",
+      "eticket": 1,
+      "directions":
+        "This lot is located on the left (north) side of W 46th St, between 8th Ave and 7th Ave.  Look for a red sign that reads \"Park\" in white, with a white arrow pointing at the entrance.",
+      "description":
+        "This is a lift parking lot located in Theater District. This location is only one block from several Broadway theaters, including the Eugene O&apos;Neill Theatre, St James Theatre, Al Hirschfeld Theatre and Lunt-Fontanne Theatre.<br />\r\n<br />\r\nThis location does not accept oversize vehicles of any type. This includes Chevy Tahoe, Chevy Suburban, Lincoln Navigator, Escalades, GMC Yukon, Ford Expedition and similarly sized vehicles.<br />\r\n<br />\r\nThis location is open Mon-Fri from 7am-12am, Sat 7am-1am, Sun 8am-12am.",
+      "recommendations": 1570
+    },
+    {
+      "location_name": "ParkRight Garage",
+      "location_id": 3309,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/670-w-43rd-st/",
+      "address": "670 W. 43rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10036",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7622331766795",
+      "lng": "-73.9998346567972",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the left (south) side of W 43rd St between 11th Ave and 12th Ave. Look for a black vertical sign that reads \"Parking\" in white, and a gray sign above the entrance that reads \"Park Open 24 Hours\" in red.<br />\r\n<br />\r\nPlease see a parking attendant for your $5 cab fare refund if you are parking for 7 days or more.",
+      "description":
+        "Covered, well-lit parking garage in Hell&apos;s Kitchen,  conveniently located near the Javits Center, the Manhattan Cruise Terminal, and the Signature Theatre. Charge your EV at one of the Tesla or universal charging stations.<br />\r\n<br />\r\nOffers valet drop-off to the cruise terminal in the comfort of your own car. Park Right will refund $5.00 to patrons for cab fare to pick up vehicles that stay over 7 days.<br />\r\n<br />\r\nAn additional fee will apply onsite for hourly/transient parkers with oversize (+$15/day) and supersize (+$20/day) vehicles.",
+      "recommendations": 1284
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6737,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/314-e-26th-st/",
+      "address": "314 E. 26th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10010",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7394668158585",
+      "lng": "-73.9789420403854",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the south side of E 26th St between 2nd Ave and 1st Ave.<br />\r\nLook for a black horizontal sign that reads \"icon Park\" with an orange arrow next to it.<br />\r\nAbove the entrance will be a black sign that reads \"icon 24 hr Parking\".",
+      "description":
+        "This is a well-lit parking garage in the Midtown East area, staffed with friendly attendants and located just four blocks East of Madison Square Park.",
+      "recommendations": 56
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6546,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/90-e-80th-st/",
+      "address": "90 E. 80th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10075",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7765056843293",
+      "lng": "-73.9605459105223",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is located on the right (south) side of E 80th St between Madison Ave and Park Ave. Look for a vertical black sign that reads \"Park\" in white with an orange arrow pointing to the entrance.<br />\r\n<br />\r\nThe official address of this garage is 900 Park Ave.",
+      "description":
+        "Hassle-free indoor parking garage at Park 900 Condominium in the Upper East Side. Conveniently situated a short walk to the Metropolitan Museum of Art, Guggenheim Museum, and Central Park.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: Mon-Sun 7AM-1AM",
+      "recommendations": 70
+    },
+    {
+      "location_name": "Enterprise Parking Systems",
+      "location_id": 7897,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/445-e-63rd-st/",
+      "address": "445 E. 63rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10065",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.76135370256",
+      "lng": "-73.9582692598924",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right (north) side of E 63rd St at the corner of York Ave and E 63rd St. Look for blue signs that read \"Park\" in white.",
+      "description":
+        "Secure and affordable indoor garage on Upper East Side. Just a short walk to the Twenty-Four Sycamores Park, St. Catherine&apos;s Park, and Dangerfield&apos;s.",
+      "recommendations": 42
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8081,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/220-w-26th-st/",
+      "address": "220 W. 26th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7463872476567",
+      "lng": "-73.9954116940498",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right (south) side of W 26th St, between 8th Ave and 7th Ave. Look for a white sign that reads \"Park\" in red along with blue and yellow iPark logo.",
+      "description":
+        "Secure and affordable indoor garage in Chelsea. Just a short walk to the Madison Square Garden, Penn Station, Hammerstein Ballroom, and Highline Ballroom.<br />\r\n<br />\r\nIf parking overnight, you must drop off and pick up your vehicle within the following hours: Mon-Fri 6AM to 1AM, Sat-Sun 7AM to 1AM",
+      "recommendations": 774
+    },
+    {
+      "location_name": "Rapid Park",
+      "location_id": 5333,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/10-e-30th-st/",
+      "address": "10 E. 30th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7454686171245",
+      "lng": "-73.9855415134919",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the right (south) side of E 30th St between 5th Ave and Madison Ave. Look for a black sign that reads \"Park\" in white.",
+      "description":
+        "Secure garage in Midtown South Central. This location is just a few blocks from the Madison Square Garden, Gramercy Theatre, and Empire State Building.<br />\r\n<br />\r\nIf you are driving an oversized vehicle, you must purchase from the oversize rate.",
+      "recommendations": 236
+    },
+    {
+      "location_name": "MPG Public Park Garage",
+      "location_id": 3381,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/517-e-71st-st/",
+      "address": "517 E. 71st St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7657499409617",
+      "lng": "-73.9529769681394",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the right (north) side of E 71st St, between FDR Dr and York Ave. Look for a black and blue vertical sign that reads \"MPG Public Park\" in white.<br />\r\n<br />\r\nUpon arrival, please show the ParkWhiz parking pass to the attendant. On exit, proceed to the cashier and show your ParkWhiz parking pass for validation.",
+      "description":
+        "Secure and affordable indoor parking in Lenox Hill, only minutes away to John Jay Park and a little over a mile to the Asia Society and Museum, and Mount Vernon Hotel Museum & Garden.",
+      "recommendations": 15
+    },
+    {
+      "location_name": "Select Garages",
+      "location_id": 5243,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/671-w-184th-st/",
+      "address": "671 W. 184th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10033",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.8519973537096",
+      "lng": "-73.9344549177986",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the north side of  W 184th St, near the intersection of  W 184th St and Broadway.  Look for the black signs that read \"Park; Open 24 hours\" in white, with a blue arrow in it. There will also be a yellow and black overhead sign by the entrance reading \"Hertz; Park\", with two white arrows pointing at the entrance. <br />\r\n<br />\r\nA secondary entrance can be found on W 185th St, between Broadway and Wadsworth Ave.",
+      "description":
+        "Well-run and affordable valet garage near Hudson Heights Heights. Just a short walk to the Harlem River Park and 181  St Subway Station.  Drivers appreciate the easy access and professional attendants.<br />\r\n<br />\r\nAn additional fee of $15/day will apply onsite for hourly/transient parkers with oversize vehicles.",
+      "recommendations": 107
+    },
+    {
+      "location_name": "Select Garages",
+      "location_id": 5749,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/673-st-nicholas-ave/",
+      "address": "673 St. Nicholas Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.8233247896886",
+      "lng": "-73.9454174196087",
+      "eticket": 1,
+      "directions":
+        "The entrance to this parking garage is located on the right (west) side of southbound St Nicholas Ave between W 145th St and 141st St. Look for a vertical black sign above the entrance that reads \"Park\" in white.",
+      "description":
+        "Inexpensive parking garage in Upper Manhattan, east of Hamilton Heights. Drivers love the easy access and courteous attendants.<br />\r\n<br />\r\nAn additional fee of $15/day will apply onsite for hourly/transient parkers with oversize vehicles.",
+      "recommendations": 62
+    },
+    {
+      "location_name": "Park-it Management",
+      "location_id": 4164,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/395-broome-st/",
+      "address": "395 Broome St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10013",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7203683953453",
+      "lng": "-73.9973051153442",
+      "eticket": 1,
+      "directions":
+        "The entrance to this lot is located on the left (south) side of Broome St, between Mulberry St and Centre Market Pl. Look for a black sign that reads \"Park\" in yellow with a red arrow.",
+      "description":
+        "Large open-air lot in Chinatown. Offers convenient access to the Bowery Ballroom, Mercury Lounge, and Children&apos;s Museum of Art.<br />\r\n<br />\r\nA $5.00 charge will apply for SUV&apos;s/M&apos;Vans. A $10.00 charge for Trucks will apply. Full-size vans and such are additional charges to be determined at the location",
+      "recommendations": 156
+    },
+    {
+      "location_name": "STA Parking (434 E. 77th St.)",
+      "location_id": 6340,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/434-e-77th-st/",
+      "address": "434 E. 77th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10075",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7703468249013",
+      "lng": "-73.9520745944428",
+      "eticket": 1,
+      "directions":
+        "The entrance for this parking garage is located on the left (south) side of E 77th St between York Ave and 1st Ave. Look for a black sign above the entrance that reads \"Public Parking\" in white.",
+      "description":
+        "This is an underground parking garage on the Upper East Side of Manhattan. Drivers like the courteous and efficient service at this garage.",
+      "recommendations": 54
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6455,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/161-w-36th-st/",
+      "address": "161 W. 36th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10018",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.752024441429",
+      "lng": "-73.989053062458",
+      "eticket": 1,
+      "directions":
+        "The entrance to this underground garage is located on the left (north) side of W 36th St, between 7th Ave and Broadway. Look for a vertical red neon sign that reads \"Park\" and a black wind sign reading \"Park\" with orange arrows pointing to the entrance.",
+      "description":
+        "Nice underground garage in Manhattan&apos;s Garment District. Conveniently located a few blocks from Madison Square Garden, Penn Station, and Times Square.<br />\r\n<br />\r\nPlease note the following garage hours: Sat: 7am-7pm, Sun: 10am-7pm.",
+      "recommendations": 63
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6683,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/241-e-75th-st/",
+      "address": "241 E. 75th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7710193555403",
+      "lng": "-73.9572481345385",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the right side of E 75th St between 2nd Ave and 3rd Ave. Look for a black vertical sign that reads \"Parking\" with an orange arrow underneath it. Above the entrance will be a black sign that reads \"24 hr Parking\" with an orange arrow next to it.",
+      "description":
+        "Secure and affordable indoor garage in the Upper East Side. Just a few minutes to the Rumsey Playfield Central Park, Metropolitan Museum of Art, and Central Park Summerstage at Rumsey Playfield.<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you must purchase from the oversize rate. Vehicles are considered over-sized if they are 181\" or longer and 70\" or higher, or 75\" high regardless of length.",
+      "recommendations": 35
+    },
+
+    {
+      "location_name": "100 East Walton Condominium - Valet",
+      "location_id": 7807,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/chicago-parking/100-e-walton-st/",
+      "address": "100 E. Walton St.",
+      "city": "Chicago",
+      "state": "IL",
+      "zip": "60611",
+      "type": "commercial-garage",
+      "timezone": "America/Chicago",
+      "lat": "41.9000101753154",
+      "lng": "-87.6254757785215",
+      "eticket": 1,
+      "directions":
+        "This is valet parking at 100 East Walton Condominium. The garage entrance is on the right (north) side of E Walton St, between N Michigan Ave and N Rush St. Look for a white vertical sign that reads “Park” in black and a green sign that reads \"Public Parking\" in white above the entrance.",
+      "description":
+        "Friendly valet service at 100 East Walton Condominium located in Near North Side. Just a few minutes walk to 360 Chicago, Lookingglass Theatre Company, Museum Of Contemporary Art Chicago, and <br />\r\nWarwick Allerton.<br />\r\n<br />\r\nThis a popular location,  longer wait times are to be expected.",
+      "recommendations": 1075
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8085,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/201-e-28th-st/",
+      "address": "201 E. 28th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7418495072877",
+      "lng": "-73.9804406510666",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of E 28th St between 3rd Ave and 2nd Ave. Look for a vertical white sign that reads \"Park\" in red.",
+      "description":
+        "Secure valet parking in Kips Bay. Just a few minutes to the Madison Square Garden, Gramercy Theatre, and New York Comedy Club.",
+      "recommendations": 434
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 8155,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/22-w-117th-st/",
+      "address": "22 W. 117th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10026",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.8016890446417",
+      "lng": "-73.9469612762332",
+      "eticket": 1,
+      "directions":
+        "The entrance to the garage is on the left side of W 117th St, between 5th Ave and Malcolm X Blvd.  Look for a white sign above the entrance that reads \"Welcome to iPark\" in black and \"Garage Entrance\" in red.",
+      "description":
+        "Easy and budget-friendly parking garage in a residential building in Harlem. Less than a mile walk from the Dempsey Theater, Apollo Theater, and Columbia University.",
+      "recommendations": 37
+    },
+
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6684,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/155-e-29th-st/",
+      "address": "155 E. 29th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10016",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7428765715745",
+      "lng": "-73.9808459579945",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the right (north) side of E 29th St, between 3rd Ave and Lexington Ave. Look for a black vertical sign that reads \"Park\" in white with an orange arrow underneath it. Next to the entrance will be a black sign that reads \"24 hr Parking\" in white with an orange arrow.",
+      "description":
+        "This indoor parking garage is conveniently located just blocks from the Gramercy Theatre, the Flatiron building, and within walking distance of a number of Gramercy Park restaurants.",
+      "recommendations": 28
+    },
+    {
+      "location_name": "iPark",
+      "location_id": 7963,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/200-e-73rd-st/",
+      "address": "200 E. 73rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7702616743858",
+      "lng": "-73.9597911201418",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the left (south) side of E 73rd St, near the southeast intersection of E 73rd St and 3rd Ave. Look for a black sign above the entrance that reads \"Main Entrance\" in white, and white signs that read \"Park\" in red.",
+      "description":
+        "Inexpensive garage on the Upper East Side. Just a short walk to Rumsey Playfield, 72 Street Subway Station and Central Park Zoo. Drivers like the friendly staff and efficient service.<br />\r\n<br />\r\nLocation Hours: Mon-Sun, 6:00 am to 1:00 am.",
+      "recommendations": 259
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6464,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/225-w-83rd-st/",
+      "address": "225 W. 83rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10024",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7861185192267",
+      "lng": "-73.9772496871413",
+      "eticket": 1,
+      "directions":
+        "The entrance for this parking garage is located mid-block on the right (north) side of W 83rd St between Broadway and Amsterdam Ave. Look for a black sign above the entrance that reads \"24 hr. Parking\" in white with an orange arrow.",
+      "description":
+        "This underground parking garage is located on the Upper West Side, across the street from the Children&apos;s Museum of Manhattan. It&apos;s a great option for visitors to the Museum of Natural History and the Hayden Planetarium, located just a few blocks away.",
+      "recommendations": 58
+    },
+    {
+      "location_name": "Public Parking Stanford St. Garage - Valet",
+      "location_id": 6602,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/san-francisco-parking/69-stanford-st/",
+      "address": "69 Stanford St.",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94107",
+      "type": "commercial-garage",
+      "timezone": "America/Los_Angeles",
+      "lat": "37.7806790111531",
+      "lng": "-122.391550652683",
+      "eticket": 1,
+      "directions":
+        "The entrance to this garage is located on the right (east) side of Stanford St, between Townsend St and Brannan St. Look for a five-story red brick building and a white sign that reads \"Public Parking\" in black.<br />\r\n<br />\r\nThe official address of this garage is 680 2nd St.",
+      "description":
+        "Convenient parking garage China Basin neighborhood. Just two blocks from AT&T Park and less than a mile walk to the Yerba Buena Center for the Arts and the San Francisco Museum of Modern Art.",
+      "recommendations": 210
+    },
+
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6450,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/38-w-43rd-st/",
+      "address": "38 W. 43rd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10036",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7548691942267",
+      "lng": "-73.9824056625366",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of W 43rd St between 5th Ave and 6th Ave. Look for a black sign reading \"Icon Park\". There will also be a black sign by the entrance that reads  \"24hr Parking\" in white.<br />\r\n<br />\r\nThe official address is 1114 6th Ave.",
+      "description":
+        "Secure and affordable garage in Midtown Center. Just a few minutes walk to the Belasco Theatre,  St James Theatre, and Stephen Sondheim Theatre.",
+      "recommendations": 699
+    },
+
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6691,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/143-145-w-40th-st/",
+      "address": "143-145 W. 40th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10018",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7546511141285",
+      "lng": "-73.9873704314232",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (north) side of W 40th St, between 7th Ave and Broadway. Look for black signs that read \"Park\" in white and  \"Icon\" in orange with an orange and black arrow pointing towards the entrance.",
+      "description":
+        "Secure and affordable indoor garage in the Theater District located near Madison Square Garden.  Very convenient to the James Theatre, Lyric Theatre, and Nederlander Theatre.",
+      "recommendations": 735
+    },
+    {
+      "location_name": "Icon Parking",
+      "location_id": 6778,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/219-w-45th-st/",
+      "address": "219 W. 45th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10036",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7582737246261",
+      "lng": "-73.9864635514096",
+      "eticket": 1,
+      "directions":
+        "This indoor garage is located on the left (south) side of W 45th St, between 7th Ave and 8th Ave. Look for a vertical black sign that reads \"Park, Icon\" and an overhead sign that reads \"Icon, 24 Hr. Parking\" in white at the entrance.",
+      "description":
+        "Secure and affordable indoor garage in Theater District. Perfect parking for the Lunt-Fontanne Theatre, Marquis Theatre, Minskoff Theatre, and Palace Theatre.<br />\r\n<br />\r\nDue to demand and traffic patterns, please allow an extra 30 minutes for vehicle drop-off and/or pick-up, particularly before and after Broadway shows.",
+      "recommendations": 1650
+    },
+    {
+      "location_name": "Park-it Management",
+      "location_id": 6430,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/400-w-155th-st/",
+      "address": "400 W. 155th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10032",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.8305616973485",
+      "lng": "-73.9406049521843",
+      "eticket": 1,
+      "directions":
+        "The entrance for this parking garage is located on the south side of W 155th St between Edgecombe Ave and St Nicholas Ave. Look for a black sign that reads \"Park\" in white.",
+      "description":
+        "This facility is an indoor parking garage in Sugar Hill, Manhattan. A fifteen-minute walk across the Harlem River gets you to Yankee Stadium.<br />\r\n<br />\r\nIf you are driving an over-size vehicle, you may be subject to an estimated additional fee of $15/day on-site",
+      "recommendations": 45
+    },
+    {
+      "location_name": "Park-it Management",
+      "location_id": 4155,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/249-10th-ave/",
+      "address": "249 10th Ave.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7487906777248",
+      "lng": "-74.0036325307406",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is located on the left (west) side of 10th Ave between W 25th St and W 24th St. Look for a black sign above the entrance that reads \"Park\" in white.",
+      "description":
+        "Convenient and secure garage in Chelsea. Just a few minutes from the Jacob Javits Convention Center, Madison Square Garden, and Highline Ballroom. <br />\r\n<br />\r\nA $10 charge for regular oversized vehicles will apply. Exceptionally large full-size vehicles will be charged a higher fee.",
+      "recommendations": 166
+    },
+
+    {
+      "location_name": "iPark",
+      "location_id": 8088,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/200-e-70th-st/",
+      "address": "200 E. 70th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10021",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7682300893322",
+      "lng": "-73.9613074067529",
+      "eticket": 1,
+      "directions":
+        "The entrance is located on the right (south) side of E 70th St between 3rd Ave and 2nd Ave. Look for a white sign that reads \"Park\" in blue.<br />\r\n<br />\r\nThere will be another white sign reading \"Park\" in blue above the entrance.",
+      "description":
+        "Affordable and convenient parking garage in Lenox Hill. Just a short walk to Kaye Playhouse, St. Catherine&apos;s Park, Naumburg Bandshell and Central Park Zoo.<br />\r\n<br />\r\nHours: Mon-Sun 6AM to 1AM.<br />\r\n<br />\r\nThis location cannot accommodate full-size SUVs (Chevy Tahoe, Suburban, Mercedes GL450, etc).",
+      "recommendations": 288
+    },
+    {
+      "location_name": "Park-it Management",
+      "location_id": 4149,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/622-630-w-51st-st/",
+      "address": "622-630 W. 51st St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10019",
+      "type": "commercial-lot",
+      "timezone": "America/New_York",
+      "lat": "40.7669290132887",
+      "lng": "-73.9954930544991",
+      "eticket": 1,
+      "directions":
+        "This open-air lot is located on the left (south) side of W 51st St, on the southeast corner of W 51st St and 12th Ave. Look for a large vertical black sign reading \"Park 24Hrs\" in white.",
+      "description":
+        "Convenient and affordable outdoor parking in Hell&apos;s Kitchen. Just a few blocks to Terminal 5 and only minutes to the Gershwin Theatre and the August Wilson Theatre.<br />\r\n<br />\r\nOn non-event days, a $15 charge for regular over-sized vehicles will apply per day. Exceptionally large full-size vehicles will be charged a higher fee.",
+      "recommendations": 151
+    },
+    {
+      "location_name": "Select Garages",
+      "location_id": 5641,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/311-w-127th-st/",
+      "address": "311 W. 127th St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10027",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.811769814106",
+      "lng": "-73.9506363300247",
+      "eticket": 1,
+      "directions":
+        "The garage entrance is on the right (north) side of W 127th St, between S Nicholas Ave and Frederick Douglass Blvd.<br />\r\nLook for a black vertical sign that reads \"Park 24 Hrs\" in white. The entrance is in the same building as \"The Balton\" apartment complex.",
+      "description":
+        "Convenient parking garage in Harlem. Just a short walk to the Apollo Theater, the Studio Museum in Harlem and the AMC Magic Johnson Harlem 9.<br />\r\n<br />\r\nAn additional fee of $15/day will apply onsite for hourly/transient parkers with oversize vehicles.",
+      "recommendations": 150
+    },
+    {
+      "location_name": "Dow Lot",
+      "location_id": 6609,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/san-francisco-parking/350-2nd-st/",
+      "address": "350 2nd St.",
+      "city": "San Francisco",
+      "state": "CA",
+      "zip": "94107",
+      "type": "commercial-lot",
+      "timezone": "America/Los_Angeles",
+      "lat": "37.7847511716436",
+      "lng": "-122.395867751911",
+      "eticket": 1,
+      "directions":
+        "The entrance is located on the west side of  2nd St, near the corner of 2nd St and Dow Pl. Look for a white sign that reads \"Towne Park Public Parking\" in blue.",
+      "description":
+        "Large and convenient open parking lot located in South Beach. Just a short walk to Museum of Modern Art, Yerba Buena Center for the Arts, Union Square, and AT&T Park.<br />\r\n<br />\r\nPlease note that from Monday-Friday 6am-7pm, the valets accept confirmation through customer email/app. All other times the customer must print the confirmation and place on their dashboard, no valets attendants present after 7 pm or weekends.",
+      "recommendations": 178
+    },
+    {
+      "location_name": "Quik Park - Central Park",
+      "location_id": 6052,
+      "parkwhiz_url":
+        "http://www.parkwhiz.com/p/new-york-parking/18-w-62nd-st/",
+      "address": "18 W. 62nd St.",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10023",
+      "type": "commercial-garage",
+      "timezone": "America/New_York",
+      "lat": "40.7701113559179",
+      "lng": "-73.9813741436228",
+      "eticket": 1,
+      "directions":
+        "The building address is 15 Central Park West, but the entrance is located on the left (south side) of W 62nd St between Central Park West and Broadway. Look for a vertical black sign that reads \"Park\" in white and a red sign reading \"Welcome to 15 C.P.W.\" in white.",
+      "description":
+        "Secure and convenient parking garage in Lincoln Square. Only minutes away from the Damrosch Park, Metropolitan Opera, Lincoln Center for the Performing Arts and David H Koch Theater.",
+      "recommendations": 515
+    }
+  ]
+}

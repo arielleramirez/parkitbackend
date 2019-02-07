@@ -32,6 +32,12 @@ ActiveRecord::Schema.define(version: 2018_11_05_222738) do
     t.integer "user_id"
     t.integer "parkingspace_id"
     t.string "name"
+    t.string "street"
+    t.string "city"
+    t.string "state"
+    t.string "zip"
+    t.string "lat"
+    t.string "lng"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
   end

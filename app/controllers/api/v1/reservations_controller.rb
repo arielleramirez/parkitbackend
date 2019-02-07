@@ -6,14 +6,22 @@ class Api::V1::ReservationsController < ApplicationController
 
 
  def create
-    @reservation=Reservation.create(
-      user_id: params[:user_id],
-      parkingspace_id: params[:parkingspace_id]
-    )
-    render json: @reservation
+  @reservation=Reservation.create(
+    user_id: params[:user_id],
+    parkingspace_id: params[:parkingspace_id],
+    name: params[:name],
+    street: params[:street],
+    city: params[:city],
+    state: params[:state],
+    zip: params[:zip],
+    lat: params[:lat],
+    lng: params[:lng]
+
+  )
+  render json: @reservation
 
 
-  end
+ end
 
   def show
     @reservation = Reservation.find(params[:id])
