@@ -3,6 +3,7 @@ class Api::V1::ParkingspotsController < ApplicationController
     @parkingspots = Parkingspot.all
     render json: @parkingspots, status: :accepted
   end
+  
 
  def create
     @parkingspot=Parkingspot.new(
